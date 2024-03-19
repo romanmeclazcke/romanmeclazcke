@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 <h1 align="center">Hi 👋, I'm Roman Meclazcke</h1>
 <h3 align="center">Backend Developer</h3>
 
@@ -33,5 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romanmeclazcke&show_icons=true&title_color=00fbff&locale=en" alt="romanmeclazcke" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romanmeclazcke&" alt="romanmeclazcke" /></p>
-
--->
