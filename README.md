@@ -1,9 +1,8 @@
-
 <h2 align="left">Roman meclazcke, Backed developer</h2>
 
 ###
 
-<p align="left">Mi nombre es Roman Meclazcke, programador y creador de contenido, donde busco compartir mis conocimientos con las personas interesadas en aprender a programar</p>
+<p align="left">Mi nombre es Roman Meclazcke, programador y creador de contenido, donde busco compartir mis conocimientos con las personas interesadas en aprender a programar.</p>
 
 ###
 
@@ -31,6 +30,10 @@
   <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sequelize" height="30" alt="sequelize logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
 </div>
 
 ###
@@ -45,6 +48,15 @@
   <a href="https://www.twitch.tv/roman_meclazcke" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
+  <a href="romanmeclazcke@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/roman-meclazcke/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
   <a href="romanmeclazcke@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
