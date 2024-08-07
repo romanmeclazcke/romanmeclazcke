@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romanmeclazcke&theme=algolia" alt="romanmeclazcke" /></a> </p>
 
-- Actualmente trabajando en [L-Athelier-Peluqueria](https://github.com/FrancoRutigliano/L-Athelier-Peluqueria)
+- Actualmente trabajando en [L-Athelier-Peluqueria]([https://github.com/FrancoRutigliano/L-Athelier-Peluqueria](https://github.com/FrancoRutigliano/L-athelier-back))
 - Desarrollando mi propio gestor de gastos [https://github.com/romanmeclazcke/ExpenseManager](https://github.com/romanmeclazcke/ExpenseManager)
 
 
