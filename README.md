@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romanmeclazcke&theme=algolia" alt="romanmeclazcke" /></a> </p>
 
-- Actualmente trabajando en un proyecto para [L-Athelier-Peluqueria]([https://github.com/FrancoRutigliano/L-Athelier-Peluqueria](https://github.com/FrancoRutigliano/L-athelier-back))
+- Backend Developer at TwinSF
 - Desarrollando mi propia aplicacion, para que comer saludable no sea un trabajo [EATelligent](https://github.com/romanmeclazcke/eatelligent)
 - Desarrollando mi propio gestor de gastos [ExpenseManager](https://github.com/romanmeclazcke/ExpenseManager)
 
