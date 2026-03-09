@@ -85,12 +85,12 @@
 ###
 
 <p align="left">
-  - <a href="https://www.fitvision.online/">FitVision</a><br>
-  - <a href="https://clawhub.ai/romanmeclazcke/drawio">Draw.io Skill for OpenClaw</a><br>
-  - <a href="https://github.com/romanmeclazcke/eatelligent">EatElligent</a><br>
-  - <a href="https://github.com/romanmeclazcke/rfshop">RfShop</a><br>
-  - <a href="https://github.com/romanmeclazcke/rag">RAG System</a><br>
-  - <a href="https://github.com/hiramgabriel1/route-provider-system">Route Provider System</a>
+  - <a href="https://www.fitvision.online/">FitVision</a> — AI-powered smart fitting room that lets you try on clothes virtually before buying<br><br>
+  - <a href="https://clawhub.ai/romanmeclazcke/drawio">Draw.io Skill for OpenClaw</a> — Custom skill integration for OpenClaw that enables diagram creation using Draw.io<br><br>
+  - <a href="https://github.com/romanmeclazcke/eatelligent">EatElligent</a> — Intelligent recipe book that suggests meals based on your preferences and available ingredients<br><br>
+  - <a href="https://github.com/romanmeclazcke/rfshop">RfShop</a> — Complete management system for barbershops and hair salons — appointments, clients & more<br><br>
+  - <a href="https://github.com/romanmeclazcke/rag">RAG System</a> — Retrieval-Augmented Generation system for querying and interacting with custom knowledge bases<br><br>
+  - <a href="https://github.com/hiramgabriel1/route-provider-system">Route Provider System</a> — Route management and provider coordination system
 </p>
 
 ###
@@ -100,13 +100,14 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=romanmeclazcke&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=romanmeclazcke&radius=50&area=false&theme=github-dark-dimmed&hide_border=true&hide_title=false" height="50" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=romanmeclazcke&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/romanmeclazcke/romanmeclazcke/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=romanmeclazcke&radius=50&area=false&theme=github-dark-dimmed&hide_border=true&hide_title=false" width="100%" alt="activity-graph graph" />
+</div>
 
 ###
 
@@ -121,5 +122,10 @@
   - <a href="https://www.linkedin.com/posts/roman-meclazcke_patronbuilder-programacion-diseaehodesoftware-ugcPost-7282025465400184832-0Fzp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIoGmcBTqDijDbrJvdtx0MP3I3j3nE9J0g">Builder Pattern</a><br><br>
   - <a href="https://www.linkedin.com/posts/roman-meclazcke_pattern-result-hace-tiempo-que-vengo-activity-7236742555558703105-LNzB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIoGmcBTqDijDbrJvdtx0MP3I3j3nE9J0g">Result Pattern</a>
 </p>
+
+
+</p>
+
+
 
 ###
