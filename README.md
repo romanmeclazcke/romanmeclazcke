@@ -116,6 +116,8 @@
 ###
 
 <p align="left">
+  - <a href="https://x.com/romanmeclazcke_/status/2036887652964974869?s=20">Agents vs RAG </a>
+  <br><br>
   - <a href="https://www.linkedin.com/posts/roman-meclazcke_rag-ia-programacion-activity-7400269567693959168-mDFc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIoGmcBTqDijDbrJvdtx0MP3I3j3nE9J0g">What is a RAG?</a><br><br>
   - <a href="https://www.youtube.com/watch?v=oxnQJUJwTrk&t=76s">Binary Search</a><br><br>
   - <a href="https://www.linkedin.com/posts/roman-meclazcke_spring-backend-java-activity-7342615667189153792-6TrI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIoGmcBTqDijDbrJvdtx0MP3I3j3nE9J0g">Java Specification</a><br><br>
