@@ -88,8 +88,9 @@
   - <a href="https://www.fitvision.online/">FitVision</a> — AI-powered smart fitting room that lets you try on clothes virtually before buying<br><br>
   - <a href="https://clawhub.ai/romanmeclazcke/drawio">Draw.io Skill for OpenClaw</a> — Custom skill integration for OpenClaw that enables diagram creation using Draw.io<br><br>
   - <a href="https://github.com/romanmeclazcke/eatelligent">EatElligent</a> — Intelligent recipe book that suggests meals based on your preferences and available ingredients<br><br>
-  - <a href="https://github.com/romanmeclazcke/rfshop">RfShop</a> — Complete management system for barbershops and hair salons — appointments, clients & more<br><br>
   - <a href="https://github.com/romanmeclazcke/rag">RAG System</a> — Retrieval-Augmented Generation system for querying and interacting with custom knowledge bases<br><br>
+  - <a href="https://github.com/romanmeclazcke/content-creator-x"> Skill for Codex </a> — Skill that orchestrates sub-agents for content creation <br><br>
+  - <a href="https://github.com/romanmeclazcke/rfshop">RfShop</a> — Complete management system for barbershops and hair salons — appointments, clients & more<br><br>
   - <a href="https://github.com/hiramgabriel1/route-provider-system">Route Provider System</a> — Route management and provider coordination system
 </p>
 
