@@ -96,21 +96,9 @@
 
 ###
 
-<h3 align="left">🔥 My Stats:</h3>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=romanmeclazcke&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=romanmeclazcke&radius=50&area=false&theme=github-dark-dimmed&hide_border=true&hide_title=false" width="100%" alt="activity-graph graph" />
-</div>
-
-###
 
 <h2 align="left">Blog & Posts</h2>
 
@@ -128,6 +116,23 @@
 
 
 </p>
+
+###
+
+<h3 align="left">🔥 My Stats:</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=romanmeclazcke&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=romanmeclazcke&radius=50&area=false&theme=github-dark-dimmed&hide_border=true&hide_title=false" width="100%" alt="activity-graph graph" />
+</div>
+
 
 
 
